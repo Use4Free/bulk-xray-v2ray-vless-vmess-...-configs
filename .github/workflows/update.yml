@@ -20,9 +20,9 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.email "Epodonios@gmail.com"
-          git config --global user.name "Epodonios"
-          git remote set-url origin https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs.git
+          git config --global user.email "myvpn594@gmail.com"
+          git config --global user.name "Use4Free"
+          git remote set-url origin https://github.com/Use4Free/bulk-xray-v2ray-vless-vmess-...-configs.git
       
       - name: Install dependencies
         run: |
