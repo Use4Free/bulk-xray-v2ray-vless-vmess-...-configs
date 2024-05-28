@@ -3,6 +3,9 @@ vless://0c052229-289f-4ac5-a29e-abb91f7da5d9@188.121.119.39:443?path=%2F&securit
 vless://b027017b-88b2-4c27-b979-28f2a2183f97@power.of.gooz.lol:2024?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#testهمراه اول تستی چند گیگ
 vless://b027017b-88b2-4c27-b979-28f2a2183f97@power.of.gooz.lol:2024?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#test
 vless://b027017b-88b2-4c27-b979-28f2a2183f97@power.of.gooz.lol:2024?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#testهمراه اول تستی چند گیگ
+vless://20cb0491-db4c-4fc2-9d09-2fb09da8b86e@p2.kingv2ray.com:2086?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_vpnn@v2rayng_vpnn
+vless://20cb0491-db4c-4fc2-9d09-2fb09da8b86e@p2.kingv2ray.com:2086?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_vpnn
+vless://20cb0491-db4c-4fc2-9d09-2fb09da8b86e@p2.kingv2ray.com:2086?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_vpnn@v2rayng_vpnn
 vless://1eb7d0c2-07c5-4709-aa2c-62ca9edb6e1b@gen.minilearn.pw:17043?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://9b820fc0-f226-4d61-9191-042a0bb8b7b1@46.36.100.232:40131?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
