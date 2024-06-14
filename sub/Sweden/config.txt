@@ -35,10 +35,6 @@ vless://86326fab-c92f-44ed-8277-5bde4ae5314d@185.146.173.58:8080?path=%2F&securi
 vless://a8cea7b1-e85f-4de2-bd5a-31418e520937@185.146.173.58:80?path=%2F&security=none&encryption=none&host=jikjik.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
 vless://2f4f4af3-6fc7-44ba-8120-d48a5a19ce69@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://81f85ebe-83ee-4b8b-ba8b-1e632c1fd3c7@185.146.173.58:80?path=%2Fss%3Fed%3D2048&security=none&encryption=none&host=join20.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
-vless://86326fab-c92f-44ed-8277-5bde4ae5314d@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
-vless://a8cea7b1-e85f-4de2-bd5a-31418e520937@185.146.173.58:80?path=%2F&security=none&encryption=none&host=jikjik.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
-vless://2f4f4af3-6fc7-44ba-8120-d48a5a19ce69@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
-vless://81f85ebe-83ee-4b8b-ba8b-1e632c1fd3c7@185.146.173.58:80?path=%2Fss%3Fed%3D2048&security=none&encryption=none&host=join20.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://33b89288-fbd6-4aeb-b367-ad339b7e12c1@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
 vless://8adfadbf-8171-4ce2-b3c8-e834eb8ed340@185.146.173.58:80?path=%2F&security=none&encryption=none&host=jikjik.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
 vless://03f3b75a-d5df-4d1f-8f2f-fc7d47d9c8db@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
