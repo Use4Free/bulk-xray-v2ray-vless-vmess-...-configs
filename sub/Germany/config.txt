@@ -41,3 +41,4 @@ trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&h
 vless://2bd91caa-fcaa-4039-85b1-daa51dd7ec7d@de.melobigg.site:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=de.melobigg.site#join • ( @HabVpn ) • 2 Speed ⚡️
 vless://91d807f4-d4ed-4537-f126-ef94efed7119@de.melobigg.site:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#Germany+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
 ss://YWVzLTEyOC1nY206am9pbmJlZGUtLVpFRE1PREVPTg==@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25367#%40Freakconfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Freakconfigvless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?security=none&encryption=none&host=fraud.chase&type=ws#%40Freakconfig
