@@ -10,16 +10,11 @@ trojan://telegram-id-privatevpns@51.20.57.166:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.60.126.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.197.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.132.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@51.20.242.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.48.230.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.171.109.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.16.130.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://82071240-49fa-4b1d-945a-09c89f79c5b8@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://b1eb081e-1873-451f-9221-95425ce19bac@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
-vless://ce9ce77b-59d4-455f-b5c3-e72f5329e0a5@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
-vless://13581548-fc99-4130-bbee-9d5a92642e8e@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
-vless://777d6d57-dab1-442e-89da-63213108a097@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
-vless://00f8444e-722a-4de1-b604-3480a40e8ea8@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc9.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
 vless://d279702d-4d2c-4ff5-ad5e-d1db3fd54cee@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://5a9ef87c-3815-419e-8e7b-9829c5755f20@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://1427904a-1cae-446a-9ed9-9fc0d9292ea8@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
