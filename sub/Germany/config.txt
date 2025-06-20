@@ -38,6 +38,7 @@ trojan://telegram-id-directvpn@63.178.28.207:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@18.199.53.32:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@63.178.152.81:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://0fdf994e-c44f-4781-9d77-244b17904380@eir-43.f-sub.cfd:4926?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#Iran%20%2B%20%283%29%20-%20%28MCI%29
+vless://0fdf994e-c44f-4781-9d77-244b17904380@eir-72.f-sub.cfd:2398?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#Iran%20%2B%20%282%29%20-%20%28MCI%29
 vless://0fdf994e-c44f-4781-9d77-244b17904380@2393123233.torob.com.tr:1429?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
 vless://0fdf994e-c44f-4781-9d77-244b17904380@3900230223.torob.com.tr:3799?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland
 vless://0fdf994e-c44f-4781-9d77-244b17904380@78234873823.webnama.com.tr:3789?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%BA%F0%9F%87%B8%20USA
@@ -79,4 +80,3 @@ trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S259)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S460)🇩🇪t.me/vmess_iran
-vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.157:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=chess.com#SamanTel%205vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=chess.com#SamanTel%206vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&security=reality&encryption=none&pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&fp=chrome&type=grpc&sni=www.debian.org&sid=d5379dac5626e5#Saman%20Tel%207
