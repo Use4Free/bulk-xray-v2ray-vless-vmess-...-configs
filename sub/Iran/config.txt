@@ -40,9 +40,11 @@ vless://8d55882b-3e14-4c40-9a1e-06c09ecd9300@tunel2.digikala2.com:14051?security
 vless://170b176e-2c89-4423-83fc-501137737bb8@tun6.aminapp.ir:8080?path=%2F&security=none&encryption=none&type=ws#%40NEW_TORK_SHOP استفادش کنید پر سرعت ❤️‍🩹
 vless://170b176e-2c89-4423-83fc-501137737bb8@tun6.aminapp.ir:8080?path=%2F&security=none&encryption=none&type=ws#%40H4X_VPN3
 vless://f04bc46e-015c-4604-8dcb-b499e5bc7e85@like4.forredeye.com:2051?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%9F%A3Finland%F0%9F%87%AB%F0%9F%87%AE%C2%B3%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7
+vless://8c658fd7-3253-4254-8366-ed2282360cac@2.144.5.61:17432?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#iSeqaro
 vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@85.133.238.84:9089?path=%2F&security=none&encryption=none&host=zula.ir&type=ws#iSeqaro
 vless://afea2055-eeb6-47a4-b0b9-28d739562892@alibaba.0xvision.xyz:54418?type=tcp&security=none#iSeqaro
 vless://7d57ddc5-2d3e-44ad-ad55-d2b5e96b9b2e@103.215.221.116:49138?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%AA%20iSeqaro
+vless://8c658fd7-3253-4254-8366-ed2282360cac@2.144.5.61:17432?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#iSeqaro
 vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@85.133.238.84:9089?path=%2F&security=none&encryption=none&host=zula.ir&type=ws#iSeqaro
 vless://afea2055-eeb6-47a4-b0b9-28d739562892@alibaba.0xvision.xyz:54418?type=tcp&security=none#iSeqaro
 vless://7d57ddc5-2d3e-44ad-ad55-d2b5e96b9b2e@103.215.221.116:49138?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%AA%20iSeqaro
