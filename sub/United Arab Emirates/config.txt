@@ -4,4 +4,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%40V2ra
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%40V2rayNG3
 trojan://Aimer@77.232.140.7:443?allowInsecure=0&sni=epcce.ambercc.filegear-sg.me#t.me/StupidBitchNigga
+vless://51867ea4-443c-4539-a03e-cf7505db5521@devip.irannoweb.art:8080?security=none&encryption=none&headerType=http&type=tcp#IRON_TALON_SHOPاینم بزنید عشق کنید
+vless://51867ea4-443c-4539-a03e-cf7505db5521@devip.irannoweb.art:8080?security=none&encryption=none&headerType=http&type=tcp#IRON_TALON_SHOP
+vless://51867ea4-443c-4539-a03e-cf7505db5521@devip.irannoweb.art:8080?security=none&encryption=none&headerType=http&type=tcp#IRON_TALON_SHOPاینم بزنید عشق کنید
+vless://51867ea4-443c-4539-a03e-cf7505db5521@devip.irannoweb.art:8080?security=none&encryption=none&headerType=http&type=tcp#IRON_TALON_SHOP
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
