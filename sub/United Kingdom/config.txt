@@ -18,10 +18,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.c
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#Free%24%20IRAN%201%20%28%40Outline_Vpn%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Free%24%20IRAN%202%20%28%40Outline_Vpn%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Free%24%20IRAN%202%20%28%40Outline_Vpn%29
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&type=grpc#S567-197405
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg%3D%3D@45.140.167.94:8388#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.176.197.229:443#%40V2rayNG3
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#%40V2rayNG3
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#%40V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&type=grpc#S567-197405
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%5B%F0%9F%87%AC%F0%9F%87%A7%5Dt.me%2Fvpn_market_v2
